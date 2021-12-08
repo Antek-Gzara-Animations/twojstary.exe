@@ -1,0 +1,16 @@
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\twojstary.exe
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\twojstary.deps.json
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\twojstary.runtimeconfig.json
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\twojstary.runtimeconfig.dev.json
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\twojstary.dll
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\ref\twojstary.dll
+C:\Users\Activcom\source\repos\twojstary\twojstary\bin\Debug\net5.0\twojstary.pdb
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.csproj.AssemblyReference.cache
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.AssemblyInfoInputs.cache
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.AssemblyInfo.cs
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.csproj.CoreCompileInputs.cache
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.dll
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\ref\twojstary.dll
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.pdb
+C:\Users\Activcom\source\repos\twojstary\twojstary\obj\Debug\net5.0\twojstary.genruntimeconfig.cache
